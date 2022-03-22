@@ -1,4 +1,4 @@
-h1, h2, h4, blockquote, p{
+h1, h2, h4, blockquote,i{
     font-family: "Raleway",sans-serif;
 }
 blockquote{
@@ -11,7 +11,7 @@ h4{
     text-decoration: underline;
     font-weight: normal;
 }
-.para{
+*{
     font-family: "Noto Serif", serif;
 }
 h3{
@@ -43,7 +43,6 @@ pre{
     background-color: #DCF5F5;
     background-image: url("cross.png");
     background-repeat: repeat;
-    font-family: sans-serif;
 }
 .fancy{
     font-family: cursive;
