@@ -31,3 +31,12 @@ pre{
     background-image: url("cross.png");
     background-repeat: repeat;
 }
+.fancy{
+    font-family: cursive;
+}
+.blue{
+    color: blue;
+}
+#content{
+    background-color: white;
+}
