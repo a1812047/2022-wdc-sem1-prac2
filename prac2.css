@@ -9,9 +9,10 @@ blockquote{
 }
 h4{
     text-decoration: underline;
+    font-weight: normal;
 }
 .para{
-    font-family: 'Noto Serif';
+    font-family: 'Noto Serif' sans-serif;
 }
 h3{
     color: rgba(0,0,139, 0.8);
