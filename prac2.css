@@ -40,3 +40,39 @@ pre{
 #content{
     background-color: white;
 }
+.grey-border{
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: 1px;
+}
+
+.red-border{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+.redOutline{
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 1px;
+}
+.rounded{
+    border-radius: 8px;
+}
+#rules26{
+    border-style: solid;
+    border-color: #CFDFE4;
+}
+.blue-border{
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
+}
+#removeBottom.red-border{
+    border-bottom: 0px;
+    border-radius: 8px 8px 0px 0px;
+}
+.roundbottom{
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
