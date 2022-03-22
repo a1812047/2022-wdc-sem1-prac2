@@ -76,3 +76,24 @@ pre{
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
+.div1{
+    background-color: blue;
+}
+.div2{
+    text-align: right;
+    background-color: yellow;
+    margin: 10px 20px 10px 20px;
+    padding: 12px;
+    width: 674px;
+    height: 174px;
+}
+#secondinnerdiv1.div1{
+    margin: 20px;
+}
+#secondinnerdiv2.div2{
+    text-align: center;
+    padding: 12px;
+    width: 374px;
+    height: 374px;
+    margin: auto;
+}
