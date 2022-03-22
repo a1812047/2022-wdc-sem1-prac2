@@ -12,7 +12,7 @@ h4{
     font-weight: normal;
 }
 .para{
-    font-family: "Noto Serif", sans-serif;
+    font-family: "Noto Serif", serif;
 }
 h3{
     color: rgba(0,0,139, 0.8);
@@ -43,6 +43,7 @@ pre{
     background-color: #DCF5F5;
     background-image: url("cross.png");
     background-repeat: repeat;
+    font-family: sans-serif;
 }
 .fancy{
     font-family: cursive;
